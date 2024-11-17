@@ -1,0 +1,8 @@
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/Homework6.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/problem1.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/problem2.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/problem3.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/problem4.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/problem5.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Umid/CLionProjects/Homework6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
